@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FASPell
 
 This repository (licensed under GNU General Public License v3.0) 
@@ -309,6 +308,3 @@ highest rank you tune the filter with. Also, change
 `dump_candidates` to `''` (empty string) and `read_from_dump` 
 to `false`.
 
-=======
-# FASPell
->>>>>>> 2b485033c887f98444b910deaa33ac144c5d140f
