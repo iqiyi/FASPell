@@ -1,0 +1,6 @@
+U+5E74	年	ning4,nian2;nin4;NYEN;NEN;nên	⿱⿰丿一⿻⿳一丨一丨
+U+725B	牛	niu2;ngau4;WU;GYUU;ngưu	⿻⿰丿一⿻一丨
+U+5343	千	qian1;cin1;CHEN;SEN;thiên	⿱丿⿻一丨
+U+7530	田	tian2;tin4;CEN;DEN,TEN;điền	⿵⿰丨𠃌⿱⿻一丨一
+U+7531	由	you2,yao1;jau4;YU;YUU,YUI,YU;do	⿻⿰丨𠃌⿱⿻一丨一
+U+5348	午	wu3;ng5;O;GO;ngọ	⿱⿰丿一⿻一丨
