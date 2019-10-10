@@ -154,7 +154,9 @@ and run the above commands to find the best number of rounds.
     - SIGHAN-2015 shared task on CSC: 
     [LINK](http://ir.itc.ntnu.edu.tw/lre/sighan8csc_release1.0.zip)
 2. machine generated data:
-    - OCR results used in our paper: LINK
+    - OCR results used in our paper:
+       - Tst_ocr: [LINK](https://github.com/iqiyi/FASPell/blob/master/data/ocr_test_1000.txt)
+       - Trn_ocr: [LINK](https://github.com/iqiyi/FASPell/blob/master/data/ocr_train_3575.txt)
     
 To use our code, the format of spell checking data should be like 
 the following examples:
