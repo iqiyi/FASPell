@@ -46,7 +46,7 @@ character-level performance is:
 | Detection  | 76.2% | 67.1% |
 | Correction  | 73.5% | 64.8% |
 
-This means that approximately 7 out of 10 error detection/correction is correct 
+This means that approximately 7 out of 10 error detections/corrections are correct 
 and 6 out 10 errors can be successfully detected/corrected.
 # Usage
 This is a step-to-step instruction for you to build a Chinese spell
