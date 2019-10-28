@@ -1,3 +1,5 @@
+[中文版 README](https://github.com/iqiyi/FASPell/blob/master/README-CN.md)
+
 # FASPell
 
 This repository (licensed under GNU General Public License v3.0) 
