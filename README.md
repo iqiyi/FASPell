@@ -51,7 +51,7 @@ character-level performance is:
 This means that approximately 7 out of 10 error detections/corrections are correct 
 and 6 out 10 errors can be successfully detected/corrected.
 # Usage
-This is a step-to-step instruction for you to build a Chinese spell
+This is a step-by-step instruction for you to build a Chinese spell
 checker
 
 ## requirements
