@@ -8,7 +8,7 @@
 **FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker
 Based On DAE-Decoder Paradigm**  [LINK](https://www.aclweb.org/anthology/D19-5522.pdf)
 
-此论文将发表于 the Proceedings of the 2019 EMNLP 
+此论文发表于 the Proceedings of the 2019 EMNLP 
 Workshop W-NUT: The 5th Workshop on Noisy User-generated Text。
 
 使用本代码与数据时，请按如下信息引用我们的论文：
