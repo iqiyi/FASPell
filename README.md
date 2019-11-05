@@ -13,8 +13,23 @@ Based On DAE-Decoder Paradigm**  [LINK](https://www.aclweb.org/anthology/D19-552
 , which is published in the Proceedings of the 2019 EMNLP 
 Workshop W-NUT: The 5th Workshop on Noisy User-generated Text.
 
-Upon use of our code and data, please cite our work as: **(to be 
-determined upon publication)**
+Upon use of our code and data, please cite our work as: 
+
+    @inproceedings{hong2019faspell,
+    title = "{FASP}ell: A Fast, Adaptable, Simple, Powerful {C}hinese Spell Checker Based On {DAE}-Decoder Paradigm",
+    author = "Hong, Yuzhong  and
+      Yu, Xianguo  and
+      He, Neng  and
+      Liu, Nan  and
+      Liu, Junhui",
+    booktitle = "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-5522",
+    pages = "160--169",
+    }
 
 ## Overview
 The task of Chinese spell checking (CSC) is conventionally reduced
