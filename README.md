@@ -8,9 +8,9 @@ contains all the data and code you need to build a state-of-the-art
 in the original paper:
 
 **FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker
-Based On DAE-Decoder Paradigm**  LINK
+Based On DAE-Decoder Paradigm**  [LINK](https://www.aclweb.org/anthology/D19-5522.pdf)
 
-, which will be published in the Proceedings of the 2019 EMNLP 
+, which is published in the Proceedings of the 2019 EMNLP 
 Workshop W-NUT: The 5th Workshop on Noisy User-generated Text.
 
 Upon use of our code and data, please cite our work as: **(to be 
