@@ -6,12 +6,28 @@
 包含构建当前最佳（到2019年初）中文拼写检查器所需的所有数据和代码，可以以此复现我们的同名论文中的全部实验：
 
 **FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker
-Based On DAE-Decoder Paradigm**  LINK
+Based On DAE-Decoder Paradigm**  [LINK](https://www.aclweb.org/anthology/D19-5522.pdf)
 
 此论文将发表于 the Proceedings of the 2019 EMNLP 
 Workshop W-NUT: The 5th Workshop on Noisy User-generated Text。
 
-使用本代码与数据时，请按如下信息引用我们的论文： **(待proceedings公布后确定)**
+使用本代码与数据时，请按如下信息引用我们的论文：
+
+    @inproceedings{hong2019faspell,
+        title = "{FASP}ell: A Fast, Adaptable, Simple, Powerful {C}hinese Spell Checker Based On {DAE}-Decoder Paradigm",
+        author = "Hong, Yuzhong  and
+          Yu, Xianguo  and
+          He, Neng  and
+          Liu, Nan  and
+          Liu, Junhui",
+        booktitle = "Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019)",
+        month = nov,
+        year = "2019",
+        address = "Hong Kong, China",
+        publisher = "Association for Computational Linguistics",
+        url = "https://www.aclweb.org/anthology/D19-5522",
+        pages = "160--169",
+    }
 
 ## 概述
 中文拼写检查（CSC）的任务通常仅考虑对中文文本中的替换错误进行检测和纠正。
