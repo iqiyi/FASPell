@@ -21,9 +21,11 @@ from __future__ import print_function
 import collections
 import random
 import tokenization
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
+import tensorflow
 import pickle
 
+tensorflow.compat.v1.disable_eager_execution()
 
 MASK_PROB = pickle.load(open('mask_probability.sav', 'rb'))
 WRONG_COUNT = dict([(k, 0) for k in MASK_PROB])
