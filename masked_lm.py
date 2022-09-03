@@ -1,9 +1,9 @@
 import sys, os
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from bert_modified import modeling
 import numpy as np
 from bert_modified import tokenization
-import tensorflow.contrib.keras as kr
+import tensorflow.keras as kr
 import json
 import warnings
 import os
@@ -22,6 +22,7 @@ __future_work__ = '1. improve computational efficiency by changing scalar comput
 
 ####################################################################################################
 
+tf.compat.v1.disable_eager_execution()
 
 warnings.filterwarnings("ignore")
 tf.logging.set_verbosity(tf.logging.ERROR)
